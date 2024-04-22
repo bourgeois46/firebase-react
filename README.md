@@ -1,2 +1,2 @@
-[배포](https://mydiary-eae39.web.app)
+[MyDiary](https://mydiary-eae39.web.app)
 
