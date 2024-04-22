@@ -1,2 +1,2 @@
-[배포]([링크](https://mydiary-eae39.web.app))
+[배포](https://mydiary-eae39.web.app)
 
